@@ -1,0 +1,142 @@
+   *{
+	margin: 0;
+	padding: 0;
+	font-family: 'Courier Prime', monospace;
+	
+
+}
+
+    .bg-1 {
+    background-image: url('Images/head.jpg');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
+   .bg-2 {
+     
+    background-image:
+    linear-gradient(to right, rgba(0, 0, 0, 0.72), rgba(173, 0, 184, 0.73)),
+    url('images/background.jpg');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
+    .artists{
+    	background-image: url('Images/hype.jpg');
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     padding-top: 50px;
+
+    }
+    .artists-bg{
+
+    }
+    .Menu{
+         position:fixed;
+         
+    }
+    .Menu ol{ 
+    	color: white;
+    	padding-top: 100px;
+    	padding-left: 60px; 
+    
+    }
+     .Menu ol li{ 
+    	padding:10px;
+    	 list-style-type: none;
+    	 font-size: 15px;
+    	 background-image:
+          linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 184, 0.5));
+          border-radius: 30px;
+    }
+
+ h1{
+ 	font-size: 80px;
+ 	text-align:center;
+ 	color: white;
+ 	padding-top: 100px;
+
+
+    
+
+    
+
+    font-family: 'Courier Prime', monospace;
+
+    font-family: 'Ma Shan Zheng', cursive;
+
+    font-family: 'Long Cang', cursive;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Abril Fatface', cursive;
+
+
+
+
+  }  
+  .images{
+  	padding-left: 20px;
+  	padding-top: 220px;
+
+  }
+  h2{
+  	font-size: 80px;
+  	color: white;
+  	padding-top: 120px;
+  	padding-left: 200px;
+
+  }
+  p{
+  	color: white;
+  	padding-top: 40px;
+  	padding-left: 200px;
+  	font-weight: bolder;
+  	font-size: 20px;
+  }
+  .Join{
+  	width: 250px;
+  	height: 50px;
+  	border-radius: 30px;
+  	font-size: 13px;
+  	color: black;
+  	text-align: center;
+  	display: inline-block;
+
+  }
+   button{
+   	background-color: rgba(131,0,255,0.9);
+  	text-align: center;
+  	font-weight: bolder;
+  	border:none;
+  	 
+  }
+
+  .col-md-4 p{
+  	color: black;
+  	font-size: 13px;
+  	 float: left;
+  	 width: 350px;
+  	 height: 30px;
+  	 padding-top: 80px;
+  	 margin: 0;
+	text-align: justify-all;
+
+  }
+
+  h3{
+  	background-color: rgba(15,0,100);
+  	padding-top: 500px;
+  	font-size: 20px;
+  	color: black;
+  }
